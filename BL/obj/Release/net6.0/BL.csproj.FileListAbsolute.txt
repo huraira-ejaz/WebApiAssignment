@@ -1,0 +1,34 @@
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\BL.deps.json
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\BL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\BL.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\Core.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\DL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\DL.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\bin\Release\net6.0\Core.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.AssemblyInfo.cs
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.csproj.CopyComplete
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\refint\BL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\BL.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\BL\obj\Release\net6.0\ref\BL.dll
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\BL.deps.json
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\BL.dll
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\BL.pdb
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\Core.dll
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\DL.dll
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\DL.pdb
+D:\WEB APP\EADAssignment2WebAPI\BL\bin\Release\net6.0\Core.pdb
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.csproj.AssemblyReference.cache
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.AssemblyInfoInputs.cache
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.AssemblyInfo.cs
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.csproj.CoreCompileInputs.cache
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.csproj.CopyComplete
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.dll
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\refint\BL.dll
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\BL.pdb
+D:\WEB APP\EADAssignment2WebAPI\BL\obj\Release\net6.0\ref\BL.dll
